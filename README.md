@@ -74,4 +74,3 @@ streamlit run app.py
 - Santoshkumar A/L K Munusamy
 - Arvind A/L Gopalakrishna Thevar(https://github.com/Arvinz01)
 
-The dashboard will open automatically in your web browser.
